@@ -40,9 +40,9 @@ We are a British indie game and software studio from Oxfordshire, UK, that was f
 
 ## 💬 Community & Support
 
-- 💭 **[GitHub Discussions](https://github.com/squareguard/discussions)** - Ask questions and share ideas
-- 💡 **[Discord](https://discord.gg/M6Ute8QJrW)** - Chat with us!
-- 🐦 **[Twitter](https://twitter.com/sqguards)** - Latest updates and announcements
+- 💭 **[GitHub Discussions](https://github.com/orgs/squareguard/discussions/)** - Discuss our projects
+- 💡 **[Discord](https://discord.gg/M6Ute8QJrW)** - Come chat with us
+- 🐦 **[Twitter](https://twitter.com/sqguards)** - Connect with us on social media
 
 ## 🤝 Contributing
 
