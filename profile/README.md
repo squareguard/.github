@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://squareguard.co.uk">Website</a> •
-  <a href="https://github.com/squareguard">GitHub Organization</a> •
+  <a href="https://github.com/squareguard">GitHub</a> •
   <a href="https://twitter.com/sqguards">Twitter</a>
 </p>
 
