@@ -16,40 +16,40 @@
   <a href="https://twitter.com/sqguards">Twitter</a>
 </p>
 
-## 🌐 About
+## About
 
 We are a British indie game and software studio from Oxfordshire, UK, that was founded out of a passion for gaming. We're dedicated to creating unique, community-driven digital experiences.
 
-## 🚀 Projects & Tools
+## Projects & Tools
 
-### 👾 Games
+### Games
 
 - **[DARKLOOPERS](https://squareguard.co.uk/games/darkloopers.html)** - Our upcoming Sci-fi TPS roguelike
 
-### 📊 Version Control Tools
+### Version Control Tools
 
 - Coming soon!
 
-### 📓 Project Management Tools
+### Project Management Tools
 
 - Coming soon!
 
-### 🛠️ Development Tools
+### Development Tools
 
 - Coming soon!
 
-## 💬 Community & Support
+## Community & Support
 
-- 💭 **[GitHub Discussions](https://github.com/orgs/squareguard/discussions/)** - Discuss our projects
-- 💡 **[Discord](https://discord.gg/M6Ute8QJrW)** - Come chat with us
-- 🐦 **[Twitter](https://twitter.com/sqguards)** - Connect with us on social media
+- **[GitHub Discussions](https://github.com/orgs/squareguard/discussions/)** - Discuss our projects
+- **[Discord](https://discord.gg/M6Ute8QJrW)** - Come chat with us
+- **[Twitter](https://twitter.com/sqguards)** - Connect with us on social media
 
-## 🤝 Contributing
+## Contributing
 
 We welcome contributions from anyone. Your help is invaluable, and makes our software better.
 
 Check out individual project repositories for specific contribution guidelines.
 
-## 📄 License
+## License
 
 All software projects under the Squareguard organization are MIT licensed, making them free to use in both open source and commercial projects.
